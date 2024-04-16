@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Halaman user</string>
+    <string name="col1">Name</string>
+    <string name="col2">Jabatan</string>
+    <string name="col3">Keterangan</string>
+    <string name="row1Name">Bintang</string>
+    <string name="row1Jabatan">Ceo</string>
+    <string name="row1Keterangan">Hadir</string>
+</resources>

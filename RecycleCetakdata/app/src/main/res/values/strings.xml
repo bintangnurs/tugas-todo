@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycle Cetak data</string>
+    <string name="nama">Nama</string>
+    <string name="keterangan_hadir_dan_waktu">keterangan hadir dan waktu</string>
+</resources>
